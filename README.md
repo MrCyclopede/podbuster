@@ -1,2 +1,2 @@
 # podbuster
-chrome extension to bust linkedin podawa users lol
+chrome extension to bust linkedin pod@w@ users lol
